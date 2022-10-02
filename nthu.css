@@ -1,0 +1,167 @@
+.container{
+    
+    flex: wrap;
+    width: 980px;
+    
+}
+.menu{
+    background-color: rgb(147, 10, 138);
+   
+}
+.btn{
+    color: aliceblue;
+}
+.info{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(95, 5, 98);
+    margin-top: 0px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+#carouselExampleControls{
+    margin-top: 10px;
+}
+.news{
+    background-color: rgba(220, 220, 220, 0.294);
+    margin-top: 40px;
+   
+}
+table{
+    width: 955px;
+    margin-left: 0%;
+}
+th{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    height: 60px;
+    color: rgba(0, 0, 0, 0.594);
+}
+td{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.156);
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+    
+}
+.link{
+    text-decoration: none;
+    border-left: 5px solid blueviolet;
+    margin-left: 0px;
+    padding-left: 10px;
+   
+}
+.more{
+  padding-left: 830px;
+  text-decoration: none; 
+
+}
+.wide{
+    height: 40px;
+    padding-top: 5px;
+}
+.part2{
+   height: 350px;
+   width: 955px;
+}
+.part2A{
+    background-color: antiquewhite;
+}
+ .imge{
+   padding-top: 33px;
+   padding-left:  20px;
+ 
+} 
+
+.card{
+    width: 305px;
+    background-color: rgb(120, 112, 112);
+    height: 450px;
+    margin-top: 20px;
+    
+}
+.cardA{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+}
+
+.part3{
+    margin-left: 120px;
+    margin-bottom: 20px;
+    width: 130px;
+   
+}
+
+
+.card-body{
+  height: 300px;
+  
+  
+}
+.card-header{
+    height: 50px;
+    background-color:rgb(147, 10, 138);
+    
+}
+.line{
+    color: aliceblue;
+    text-decoration: none;
+}
+.logo{
+    width: 20px;
+    margin-top: 100px;
+    margin-left: 790px;
+    
+}
+.end{
+    margin-left: 10px;
+}
+.last{
+    background-color: rgb(147, 10, 138);
+    color: aliceblue;
+    height: 150px;
+    font-size: large;
+    text-align: center;
+   
+}
+.sty{
+    margin-top: 20px;
+    padding-top: 30px;
+}
+.apple{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 900px;
+}
+.three{
+    width: 400px;
+    height: 380px;
+   
+}
+.dsg{
+    height: 380px;
+    width: 315px;
+} 
+.dsg:hover{
+    width: 500px;
+    text-align: center;
+}
+
+.data{
+    position: relative;
+}
+.bbc{
+    font-size: large;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    transform: -50%;
+    translate: -50%;
+}
